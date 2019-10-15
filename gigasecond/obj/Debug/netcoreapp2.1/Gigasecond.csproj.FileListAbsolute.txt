@@ -11,3 +11,16 @@ C:\Users\mgaol\Exercism\csharp\gigasecond\obj\Debug\netcoreapp2.1\Gigasecond.Ass
 C:\Users\mgaol\Exercism\csharp\gigasecond\obj\Debug\netcoreapp2.1\Gigasecond.AssemblyInfo.cs
 C:\Users\mgaol\Exercism\csharp\gigasecond\obj\Debug\netcoreapp2.1\Gigasecond.dll
 C:\Users\mgaol\Exercism\csharp\gigasecond\obj\Debug\netcoreapp2.1\Gigasecond.pdb
+C:\Exercism\ExercismCSharp\gigasecond\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Exercism\ExercismCSharp\gigasecond\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Exercism\ExercismCSharp\gigasecond\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Exercism\ExercismCSharp\gigasecond\bin\Debug\netcoreapp2.1\Gigasecond.deps.json
+C:\Exercism\ExercismCSharp\gigasecond\bin\Debug\netcoreapp2.1\Gigasecond.runtimeconfig.json
+C:\Exercism\ExercismCSharp\gigasecond\bin\Debug\netcoreapp2.1\Gigasecond.runtimeconfig.dev.json
+C:\Exercism\ExercismCSharp\gigasecond\bin\Debug\netcoreapp2.1\Gigasecond.dll
+C:\Exercism\ExercismCSharp\gigasecond\bin\Debug\netcoreapp2.1\Gigasecond.pdb
+C:\Exercism\ExercismCSharp\gigasecond\obj\Debug\netcoreapp2.1\Gigasecond.csproj.CoreCompileInputs.cache
+C:\Exercism\ExercismCSharp\gigasecond\obj\Debug\netcoreapp2.1\Gigasecond.AssemblyInfoInputs.cache
+C:\Exercism\ExercismCSharp\gigasecond\obj\Debug\netcoreapp2.1\Gigasecond.AssemblyInfo.cs
+C:\Exercism\ExercismCSharp\gigasecond\obj\Debug\netcoreapp2.1\Gigasecond.dll
+C:\Exercism\ExercismCSharp\gigasecond\obj\Debug\netcoreapp2.1\Gigasecond.pdb

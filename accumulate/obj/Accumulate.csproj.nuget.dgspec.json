@@ -1,35 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mgaol\\Exercism\\csharp\\accumulate\\Accumulate.csproj": {}
+    "C:\\Exercism\\ExercismCSharp\\accumulate\\Accumulate.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mgaol\\Exercism\\csharp\\accumulate\\Accumulate.csproj": {
+    "C:\\Exercism\\ExercismCSharp\\accumulate\\Accumulate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mgaol\\Exercism\\csharp\\accumulate\\Accumulate.csproj",
+        "projectUniqueName": "C:\\Exercism\\ExercismCSharp\\accumulate\\Accumulate.csproj",
         "projectName": "Accumulate",
-        "projectPath": "C:\\Users\\mgaol\\Exercism\\csharp\\accumulate\\Accumulate.csproj",
+        "projectPath": "C:\\Exercism\\ExercismCSharp\\accumulate\\Accumulate.csproj",
         "packagesPath": "C:\\Users\\mgaol\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mgaol\\Exercism\\csharp\\accumulate\\obj\\",
+        "outputPath": "C:\\Exercism\\ExercismCSharp\\accumulate\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\mgaol\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://nuget.vestas.net:1337/nuget/Default": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.org/api/v2/": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp2.1": {

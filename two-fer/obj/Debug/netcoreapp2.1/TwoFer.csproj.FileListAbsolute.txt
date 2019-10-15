@@ -12,3 +12,17 @@ C:\Users\mgaol\Exercism\csharp\two-fer\obj\Debug\netcoreapp2.1\TwoFer.AssemblyIn
 C:\Users\mgaol\Exercism\csharp\two-fer\obj\Debug\netcoreapp2.1\TwoFer.AssemblyInfo.cs
 C:\Users\mgaol\Exercism\csharp\two-fer\obj\Debug\netcoreapp2.1\TwoFer.dll
 C:\Users\mgaol\Exercism\csharp\two-fer\obj\Debug\netcoreapp2.1\TwoFer.pdb
+C:\Exercism\ExercismCSharp\two-fer\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Exercism\ExercismCSharp\two-fer\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Exercism\ExercismCSharp\two-fer\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Exercism\ExercismCSharp\two-fer\bin\Debug\netcoreapp2.1\TwoFer.deps.json
+C:\Exercism\ExercismCSharp\two-fer\bin\Debug\netcoreapp2.1\TwoFer.runtimeconfig.json
+C:\Exercism\ExercismCSharp\two-fer\bin\Debug\netcoreapp2.1\TwoFer.runtimeconfig.dev.json
+C:\Exercism\ExercismCSharp\two-fer\bin\Debug\netcoreapp2.1\TwoFer.dll
+C:\Exercism\ExercismCSharp\two-fer\bin\Debug\netcoreapp2.1\TwoFer.pdb
+C:\Exercism\ExercismCSharp\two-fer\obj\Debug\netcoreapp2.1\TwoFer.csprojAssemblyReference.cache
+C:\Exercism\ExercismCSharp\two-fer\obj\Debug\netcoreapp2.1\TwoFer.csproj.CoreCompileInputs.cache
+C:\Exercism\ExercismCSharp\two-fer\obj\Debug\netcoreapp2.1\TwoFer.AssemblyInfoInputs.cache
+C:\Exercism\ExercismCSharp\two-fer\obj\Debug\netcoreapp2.1\TwoFer.AssemblyInfo.cs
+C:\Exercism\ExercismCSharp\two-fer\obj\Debug\netcoreapp2.1\TwoFer.dll
+C:\Exercism\ExercismCSharp\two-fer\obj\Debug\netcoreapp2.1\TwoFer.pdb

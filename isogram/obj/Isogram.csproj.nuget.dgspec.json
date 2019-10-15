@@ -1,35 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mgaol\\Exercism\\csharp\\isogram\\Isogram.csproj": {}
+    "C:\\Exercism\\ExercismCSharp\\isogram\\Isogram.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mgaol\\Exercism\\csharp\\isogram\\Isogram.csproj": {
+    "C:\\Exercism\\ExercismCSharp\\isogram\\Isogram.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mgaol\\Exercism\\csharp\\isogram\\Isogram.csproj",
+        "projectUniqueName": "C:\\Exercism\\ExercismCSharp\\isogram\\Isogram.csproj",
         "projectName": "Isogram",
-        "projectPath": "C:\\Users\\mgaol\\Exercism\\csharp\\isogram\\Isogram.csproj",
+        "projectPath": "C:\\Exercism\\ExercismCSharp\\isogram\\Isogram.csproj",
         "packagesPath": "C:\\Users\\mgaol\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mgaol\\Exercism\\csharp\\isogram\\obj\\",
+        "outputPath": "C:\\Exercism\\ExercismCSharp\\isogram\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\mgaol\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://nuget.vestas.net:1337/nuget/Default": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.org/api/v2/": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp2.1": {

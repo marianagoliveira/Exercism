@@ -11,3 +11,17 @@ C:\Users\mgaol\Exercism\csharp\accumulate\obj\Debug\netcoreapp2.1\Accumulate.Ass
 C:\Users\mgaol\Exercism\csharp\accumulate\obj\Debug\netcoreapp2.1\Accumulate.AssemblyInfo.cs
 C:\Users\mgaol\Exercism\csharp\accumulate\obj\Debug\netcoreapp2.1\Accumulate.dll
 C:\Users\mgaol\Exercism\csharp\accumulate\obj\Debug\netcoreapp2.1\Accumulate.pdb
+C:\Exercism\ExercismCSharp\accumulate\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Exercism\ExercismCSharp\accumulate\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Exercism\ExercismCSharp\accumulate\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Exercism\ExercismCSharp\accumulate\bin\Debug\netcoreapp2.1\Accumulate.deps.json
+C:\Exercism\ExercismCSharp\accumulate\bin\Debug\netcoreapp2.1\Accumulate.runtimeconfig.json
+C:\Exercism\ExercismCSharp\accumulate\bin\Debug\netcoreapp2.1\Accumulate.runtimeconfig.dev.json
+C:\Exercism\ExercismCSharp\accumulate\bin\Debug\netcoreapp2.1\Accumulate.dll
+C:\Exercism\ExercismCSharp\accumulate\bin\Debug\netcoreapp2.1\Accumulate.pdb
+C:\Exercism\ExercismCSharp\accumulate\obj\Debug\netcoreapp2.1\Accumulate.csprojAssemblyReference.cache
+C:\Exercism\ExercismCSharp\accumulate\obj\Debug\netcoreapp2.1\Accumulate.csproj.CoreCompileInputs.cache
+C:\Exercism\ExercismCSharp\accumulate\obj\Debug\netcoreapp2.1\Accumulate.AssemblyInfoInputs.cache
+C:\Exercism\ExercismCSharp\accumulate\obj\Debug\netcoreapp2.1\Accumulate.AssemblyInfo.cs
+C:\Exercism\ExercismCSharp\accumulate\obj\Debug\netcoreapp2.1\Accumulate.dll
+C:\Exercism\ExercismCSharp\accumulate\obj\Debug\netcoreapp2.1\Accumulate.pdb

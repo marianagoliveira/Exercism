@@ -1,35 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mgaol\\Exercism\\csharp\\phone-number\\PhoneNumber.csproj": {}
+    "C:\\Exercism\\ExercismCSharp\\phone-number\\PhoneNumber.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mgaol\\Exercism\\csharp\\phone-number\\PhoneNumber.csproj": {
+    "C:\\Exercism\\ExercismCSharp\\phone-number\\PhoneNumber.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mgaol\\Exercism\\csharp\\phone-number\\PhoneNumber.csproj",
+        "projectUniqueName": "C:\\Exercism\\ExercismCSharp\\phone-number\\PhoneNumber.csproj",
         "projectName": "PhoneNumber",
-        "projectPath": "C:\\Users\\mgaol\\Exercism\\csharp\\phone-number\\PhoneNumber.csproj",
+        "projectPath": "C:\\Exercism\\ExercismCSharp\\phone-number\\PhoneNumber.csproj",
         "packagesPath": "C:\\Users\\mgaol\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mgaol\\Exercism\\csharp\\phone-number\\obj\\",
+        "outputPath": "C:\\Exercism\\ExercismCSharp\\phone-number\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\mgaol\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://nuget.vestas.net:1337/nuget/Default": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.org/api/v2/": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp2.1": {

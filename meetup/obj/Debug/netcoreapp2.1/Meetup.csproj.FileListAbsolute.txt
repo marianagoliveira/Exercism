@@ -12,3 +12,17 @@ C:\Users\mgaol\Exercism\csharp\meetup\obj\Debug\netcoreapp2.1\Meetup.AssemblyInf
 C:\Users\mgaol\Exercism\csharp\meetup\obj\Debug\netcoreapp2.1\Meetup.AssemblyInfo.cs
 C:\Users\mgaol\Exercism\csharp\meetup\obj\Debug\netcoreapp2.1\Meetup.dll
 C:\Users\mgaol\Exercism\csharp\meetup\obj\Debug\netcoreapp2.1\Meetup.pdb
+C:\Exercism\ExercismCSharp\meetup\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Exercism\ExercismCSharp\meetup\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Exercism\ExercismCSharp\meetup\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Exercism\ExercismCSharp\meetup\bin\Debug\netcoreapp2.1\Meetup.deps.json
+C:\Exercism\ExercismCSharp\meetup\bin\Debug\netcoreapp2.1\Meetup.runtimeconfig.json
+C:\Exercism\ExercismCSharp\meetup\bin\Debug\netcoreapp2.1\Meetup.runtimeconfig.dev.json
+C:\Exercism\ExercismCSharp\meetup\bin\Debug\netcoreapp2.1\Meetup.dll
+C:\Exercism\ExercismCSharp\meetup\bin\Debug\netcoreapp2.1\Meetup.pdb
+C:\Exercism\ExercismCSharp\meetup\obj\Debug\netcoreapp2.1\Meetup.csprojAssemblyReference.cache
+C:\Exercism\ExercismCSharp\meetup\obj\Debug\netcoreapp2.1\Meetup.csproj.CoreCompileInputs.cache
+C:\Exercism\ExercismCSharp\meetup\obj\Debug\netcoreapp2.1\Meetup.AssemblyInfoInputs.cache
+C:\Exercism\ExercismCSharp\meetup\obj\Debug\netcoreapp2.1\Meetup.AssemblyInfo.cs
+C:\Exercism\ExercismCSharp\meetup\obj\Debug\netcoreapp2.1\Meetup.dll
+C:\Exercism\ExercismCSharp\meetup\obj\Debug\netcoreapp2.1\Meetup.pdb
